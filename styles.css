@@ -180,7 +180,7 @@ html {
 .timeline ul li:nth-child(even) .bubble::before {
   right: -15px;
   border-width: 8px 0 8px 16px;
-  border-color: transparent transparent transparent rgba(18, 157, 175, 0.8);
+  border-color: transparent transparent transparent rgba(113, 43, 146, 0.8);
 }
 
 time {
